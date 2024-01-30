@@ -1,0 +1,3 @@
+#Paraglider List
+OZONE
+SKYWALK
